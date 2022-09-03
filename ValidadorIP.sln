@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorIP", "ValidadorIP\ValidadorIP.csproj", "{4F41D9AE-162D-47AD-9692-51504E5D1195}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{EBF5AF86-912C-4A2C-BFB9-8E2C517C6231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F41D9AE-162D-47AD-9692-51504E5D1195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F41D9AE-162D-47AD-9692-51504E5D1195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F41D9AE-162D-47AD-9692-51504E5D1195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F41D9AE-162D-47AD-9692-51504E5D1195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF5AF86-912C-4A2C-BFB9-8E2C517C6231}.Debug|Any CPU.ActiveCfg = Debug
+		{EBF5AF86-912C-4A2C-BFB9-8E2C517C6231}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA661220-C5A2-4D1D-B2B8-5C6AD371A621}
+	EndGlobalSection
+EndGlobal
